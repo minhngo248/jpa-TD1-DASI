@@ -1,0 +1,7 @@
+com\mycompany\tdmaven\metier\service\Service.class
+com\mycompany\tdmaven\metier\modele\Client.class
+com\mycompany\tdmaven\ihm\Main.class
+com\mycompany\tdmaven\dao\JpaUtil.class
+com\mycompany\tdmaven\metier\modele\Client_.class
+com\mycompany\tdmaven\dao\JpaUtil$1.class
+com\mycompany\tdmaven\dao\ClientDAO.class
